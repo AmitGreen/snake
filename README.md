@@ -13,10 +13,14 @@ Key emphasis to achieve the goal:
 
 4.  Good Software praticies:
 
-      (A) Coding Standards; with strong empahsis on: clear & concise Code
+      (A) Coding Standards; with strong empahsis on: clear & concise code;
+      
       (B) Customer Specifications & Architecture Documents;
+      
       (C) Code Reviews;
-      (D) Umit Testing & Continous testing
+      
+      (D) Umit Testing & Continous testing;
+      
       (E) Full Code Coverage.
      
 5.  Python Language
