@@ -1,7 +1,7 @@
 # snake
 Secure Name And Key Encryption
 
-Goal: This is a open source project to teach people usefull programing & related skills to assist in acquiring a job.
+Goal: This is an open source project to teach people useful programming & related skills to assist in acquiring a job.
 
 Key emphasis to achieve the goal:
 
