@@ -23,11 +23,19 @@ Key emphasis to achieve the goal:
       
       (E) Full Code Coverage.
      
-5.  Python Language
+5.  Integrating Open Source Software
 
-6.  VPE (Vision, Plan, Execute).
+      NOTE: Creating products in 2017, is much more about integrating open source software that writing your own software.
 
-7.  EAPI (Entreprenuership, Administration, Production, & Integration).
+6.  Python Language
+
+7.  Methodologies:
+
+    (A)  GEM (General Education Method)
+    
+    (B)  VPE (Vision, Plan, Execute).
+
+    (C)  EAPI (Entreprenuership, Administration, Production, & Integration).
 
 Of the above points, points #1 & #2 are considered the most critical by this project to have useful programing & related skills to assist in acquiring a job.
 
